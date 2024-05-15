@@ -1,1 +1,1 @@
-No valid analysis grid has been defined
+No FORTRAN error
